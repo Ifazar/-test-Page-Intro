@@ -1,0 +1,163 @@
+.profil-pic {
+  margin: auto;
+  padding: 16px;
+  width: 10%;
+  height: 10%;
+  border-radius: 10% 90% 15% 85% / 59% 31% 69% 41% ;
+}
+
+body {
+  background-color: #99ffbb;
+}
+
+a {
+  color: #bb1313;
+}
+
+a:hover {
+  background-color: gold;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+  text-align: left;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.intro {
+  text-align: center;
+  background-color: ;
+  border: 1px solid rgb(115, 101, 132);
+  border-top-right-radius: 25%;
+  border-bottom-left-radius: 25%;
+  border-top-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  width: fit-content;
+  height: fit-content;
+  margin: 16px;
+  padding: 16px;
+  background-color: #8080ff;
+}
+
+.description {
+  text-align: center;
+  width: fit-content;
+  height: fit-content;
+  background-color: ;
+  border-radius: 8%;
+  border: 1px solid rgb(115, 101, 132);
+  margin: 16px;
+  padding: 16px;
+  background-color: #8080ff;
+}
+
+.link-media {
+  text-align: center;
+  border-radius: 33%;
+  border: 1px solid rgb(115, 101, 132);
+  background-color: ;
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 16px;
+  padding: 8px;
+  background-color: #8080ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+  background-color: #ffffff;
+  margin: auto;
+  padding: auto;
+}
+
+h2 {
+  color: blue;
+  padding: 8px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  width: 65%;
+  height: 65%;
+}
+
+ul {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+li {
+  text-align: left;
+  list-style-position: inside;
+  margin: 0 auto;
+}
+
+a {
+  color: rgb(45, 40, 40);
+}
+
+a:hover {
+  background-color: rgba(0, 51, 204, 0.3);
+}
+
+
+.profil-pic {
+  margin: auto;
+  padding: 16px;
+  width: 10%;
+  height: 10%;
+  border-radius: 10% 90% 15% 85% / 59% 31% 69% 41% ;
+}
+
+.intro {
+  background-color: #ccff66;
+  width: fit-content;
+  margin: 16px;
+  padding: 8px;
+  border-radius: 50px;
+  border: 1px solid rgb(115, 101, 132);
+
+}
+
+.description {
+  font-size: 16px;
+  background-color: beige;
+  margin: 8px;
+  padding: 8px;
+  width: 55%;
+  height: auto;
+  border-radius: 50px;
+  border: 1px solid rgb(155, 49, 49);
+}
+
+.link-media {
+  font-size: 16px;
+  background-color: #ccff66;
+  border-radius: 50px ;
+  padding: 8px;
+  margin: 16px;
+  border: 1px solid rgb(36, 13, 13);
+} */
